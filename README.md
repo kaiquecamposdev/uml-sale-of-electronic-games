@@ -1,8 +1,8 @@
-# UML Diagrams: Geeky Video Game Store
+# 🎮 UML Diagrams: Geeky Video Game Store
 
 This repository contains a set of Unified Modeling Language (UML) diagrams designed to model the system of a hypothetical geek-themed video game retail store. These diagrams provide a visual representation of the store's structure, behavior, and relationships between different elements.
 
-## Purpose
+## ⭐ Purpose
 
 The purpose of these diagrams is to:
 
@@ -22,12 +22,6 @@ This repository includes the following UML diagrams:
 *   **(Optional) State Diagram:** (If applicable) Illustrates the different states an object can be in and the transitions between them.
 *   **(Optional) Component Diagram:** (If applicable) Shows the organization and dependencies between software components.
 
-## Files
-
-The diagrams are provided in the following format:
-
-*   **Formats:** .pdf (Portable Document Format), .mdj (StarUML Project File), .brM3 (BRModelo File).
-
 ## How to View/Use the Diagrams
 
 To view the diagrams, you will need:
@@ -43,10 +37,16 @@ You can use these diagrams for:
 *   Learning UML modeling techniques.
 *   Illustrating a case study.
 
-## Contributions
+## 📂 Files
+
+The diagrams are provided in the following format:
+
+*   **Formats:** .pdf (Portable Document Format), .mdj (StarUML Project File), .brM3 (BRModelo File).
+
+## 🤝 Contributions
 
 Contributions to improve the diagrams, correct errors, or add new diagrams are welcome! Please submit a pull request with your proposed changes.
 
-## License
+## 📝 License
 
 This project is licensed under the [MIT License](./LICENSE).
